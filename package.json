@@ -1,6 +1,6 @@
 {
   "name": "anees-hanif-currency-converator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple cli based currency converator",
   "main": "index.js",
   "type": "module",

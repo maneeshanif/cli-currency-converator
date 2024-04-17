@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 import inquirer from "inquirer"
 import chalk from "chalk"
-console.log(chalk.redBright.bold.bgWhiteBright.overline('\t\t\t\t\t\t Currency Converter'));
+console.log(chalk.redBright.bold.bgWhiteBright('\t\t\t\t\t\t Currency Converter'));
 console.log(chalk.greenBright('\nDeveloped By:'));
 console.log(chalk.blueBright.underline("\tAnees Hanif"));
 console.log("\n");
