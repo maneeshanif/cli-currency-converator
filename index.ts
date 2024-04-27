@@ -40,4 +40,4 @@ let toAmount = currency[userAnswer.to];
 let Amount = userAnswer.amount;
 let baseAmount = Amount / fromAmount;
 let convertedAmount = baseAmount * toAmount;
-console.log(chalk.yellowBright.bold`\tThe converted amount  is = ${convertedAmount}`);
+console.log(chalk.yellowBright.bold`\tThe converted amount  is = ${convertedAmount.toFixed(2)}`);
